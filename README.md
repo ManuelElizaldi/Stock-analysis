@@ -1,5 +1,5 @@
 # Stock-analysis
-#Overview of Project: In this project we used VBA, Excel's programming langugae in order to create a macro that helps us analyze a set of data easily. When we run the macro we created we can determine the return of any stock and decide if we want to invest in it. 
+#Overview of Project: The background for this project was to find an attractive investment option from a variety of different stocks for out client. In order to decide where to invest we used VBA, Excel's programming langugae in order to create a macro that helps us analyze a set of data easily. If we run the macro we are able to easily calculate the yearly return for each stock and then based on these information our client can decide where to invest.
 
 #Results: 
 
@@ -30,4 +30,4 @@ One advantge of refactoring code is that you can modify an existing code to work
 A disadvantage we can face is that refactoring can be very time consuming and confusing, you'll never know how much time it can take and in certain points you might not know where to go with the code or how to solve other problems.
 
 How do these pros and cons apply to refactoring the original VBA script?
-For the original VBA script it was not time consuming but rather confusing, because we had to determine new variables and new For Loops. 
+For the original VBA script it was not time consuming but rather confusing, because we had to determine new variables and write new For Loops for those variables. 
