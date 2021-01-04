@@ -13,6 +13,8 @@
 
 #2017
 As we can see every stock in the year 2017 had a good performance except 'TERP'which had a negative return of -7.2%. 
+
+
 #2018
 Nonetheless, next year was not great for the market. As we can see in the table only 'ENPH' and 'RUN' had a positive return with a value of 81.9% and 84%, respecteviley. 
 
