@@ -5,7 +5,10 @@
 
 
 #Stock Analysis Results
+
+
 ![](Resources/Allstocks2017.png) ![](Resources/Allstocks2018.png)
+
 
 
 #2017
