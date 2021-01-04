@@ -2,6 +2,8 @@
 #Overview of Project: In this project we used VBA, Excel's programming langugae in order to create a macro that helps us analyze a set of data easily. When we run the macro we created we can determine the return of any stock and decide if we want to invest in it. 
 
 #Results: 
+
+
 ![](Resources/Allstocks2017.png) ![](Resources/Allstocks2018.png)
 
 As we can see every stock in the year 2017 had a good performance except 'TERP'which had a negative return of -7.2%. Nonetheless, next year was not great for the market. 
